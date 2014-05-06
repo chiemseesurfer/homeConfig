@@ -40,6 +40,14 @@ Clone this repository and copy tmux.conf to ~/.tmux.conf
 
     cp tmux.conf ~/.tmux.conf
 
-Now you can start tmxu like the following command:
+Now you can start tmux like the following command:
 
     tmux -2 -f ~/.tmux.conf new -s NAME
+
+## Vimperrator
+
+Vimperrator is the vim plugin for Firefox.
+
+Clone this repository and copy vimerratorrc to ~/.vimperratorrc
+
+    cp vimperratorrc ~/.vimperratorrc

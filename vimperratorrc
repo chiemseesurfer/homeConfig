@@ -1,0 +1,14 @@
+command! -nargs=* ddg tabopen ddg <args>
+command! -nargs=* dewiki tabopen wikipedia <args>
+command! -nargs=* dict tabopen dict <args>
+command! -nargs=* dud tabopen dud <args>
+command! -nargs=* goo tabopen google <args>
+command! -nargs=* amazon tabopen amazon <args>
+command! -nargs=* youtube tabopen youtube <args>
+
+map <C-m> :tabgroups<Space>1switch<Return>
+set noautocomplete
+set complete=btfh
+set runtimepath=/path/to/.vimperator
+
+colorscheme indigo
