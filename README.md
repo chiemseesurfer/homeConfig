@@ -51,3 +51,11 @@ Vimperrator is the vim plugin for Firefox.
 Clone this repository and copy vimerratorrc to ~/.vimperratorrc
 
     cp vimperratorrc ~/.vimperratorrc
+
+## Conky
+
+conky is a system monitor for X.
+
+Clone this repository and copy conkyrc to ~/.conkyrc
+
+    cp conkyrc ~/.conkyrc
